@@ -1,5 +1,13 @@
 
-### ✔ Back-End Developer 
+
+### 🖱 Back-End Developer 
+
+
+
+### ✒ Blog
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://geloyu.github.io./)](https://geloyu.github.io./)
+
+
 
 ### 💡 Skill Set
 Java/Spring, SpringBoot, Spring Batch, MySQL, Git, Javascript, React
@@ -13,5 +21,3 @@ Java/Spring, SpringBoot, Spring Batch, MySQL, Git, Javascript, React
   </span>
 </div>
 
-### ✒ Blog
-<a href="https://geloyu.github.io./">Tech blog</a>
