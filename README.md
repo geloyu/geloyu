@@ -1,8 +1,8 @@
 
-### 🖱 Back-End Developer 
+## Back-End Developer 
 
 
-### 💡 Skill Set
+### Skill Set
 Java/Spring, SpringBoot, Spring Batch, MySQL, Git, Javascript, React
 
 <div>
