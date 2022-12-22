@@ -15,5 +15,6 @@ Java/Spring, SpringBoot, Spring Batch, MySQL, Git, Javascript, React
 </div>
 
 ###
-[![Tech Blog Badge](http://img.shields.io/badge/-Gelo's%20Tech%20Blog-black?style=flat-square&logo=github&link=https://geloyu.github.io./)](https://geloyu.github.io./) [![Gmail Badge](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbirds94@gmail.com)](mailto:bbirds94@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Gelo's%20Tech%20Blog-black?style=flat-square&logo=github&link=https://geloyu.github.io/Blog/)](https://geloyu.github.io/Blog/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbirds94@gmail.com)](mailto:bbirds94@gmail.com)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/gelo_kr/)](https://instagram.com/gelo_kr/)
